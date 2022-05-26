@@ -11,7 +11,11 @@ class Infinite_Iter:
         return num
 i = Infinite_Iter()
 a = iter(i)
+#prints first element
 print(next(a))
+#prints second element
 print(next(a))
+#prints third element
 print(next(a))
+#prints fourth element
 print(next(a))
