@@ -30,3 +30,6 @@ print(next(i))
 print(next(i))
 print(next(i))
 print(next(i))
+for i in PowTwo(5):
+    
+    print(i)
