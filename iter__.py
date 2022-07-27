@@ -22,3 +22,6 @@ print(my_iter.__next__())
 
 # This will raise error, no items left
 next(my_iter)
+
+for element in my_list:
+    print(element)
