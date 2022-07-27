@@ -25,6 +25,9 @@ next(my_iter)
 
 for element in my_list:
     print(element)
+    
+    
+#Working of for loop for Iterators
 # create an iterator object from that iterable
 iter_obj = iter(iterable)
 
