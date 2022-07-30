@@ -1,3 +1,4 @@
+#Iterator using OOP concept
 class PowTwo:
     """Class to implement an iterator
     of powers of two"""
