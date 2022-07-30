@@ -33,7 +33,9 @@ print(next(i))
 print(next(i))
 for i in PowTwo(5):
     print(i)
+
     
+#Create another class for showing Infinite Iteration
 class InfIter:
     """Infinite iterator to return all
         odd numbers"""
