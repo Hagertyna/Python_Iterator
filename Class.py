@@ -19,7 +19,7 @@ class PowTwo:
             raise StopIteration
 
 
-# create an object
+# create an object of PowTwo class
 numbers = PowTwo(3)
 
 # create an iterable from the object
