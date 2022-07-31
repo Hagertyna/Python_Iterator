@@ -7,7 +7,7 @@ fcc_dict = {"name": "TechCampEthiopia",
 for key, value in fcc_dict.items():
     print(key, value)
 
-# Output: 
+# Output will be 
 # name TechCampEthiopia
 # type non-profit
 # mode remote
