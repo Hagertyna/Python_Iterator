@@ -14,7 +14,7 @@ for key, value in fcc_dict.items():
 # paid no
 fcc_dict = {"name": "TechCampEthiopia",
            "type": "non-profit", 
-           "mode": "remote", 
+           "mode": "remote/ In person", 
            "paid": "no"}
 
 for a, b in fcc_dict.items():
