@@ -1,3 +1,4 @@
+#creating dictionary named fcc_dict
 fcc_dict = {"name": "TechCampEthiopia",
            "type": "non-profit", 
            "mode": "remote", 
