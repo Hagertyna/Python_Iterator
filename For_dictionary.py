@@ -16,7 +16,7 @@ fcc_dict = {"name": "TechCampEthiopia",
            "type": "non-profit", 
            "mode": "remote/ In person", 
            "paid": "no"}
-
+#Iterate dictionary using for loop
 for a, b in fcc_dict.items():
     # print(a, b)
     if a == "type":
