@@ -15,13 +15,13 @@ a = iter(i)
 print(next(a))
 #prints second element
 print(next(a))
-#prints third element
+#print's third element
 print(next(a))
 #prints fourth element
 print(next(a))
 
 
-
+#new list creation
 values = [10, 20, 30]
 iterator = iter(values)
 print(next(iterator))
