@@ -1,7 +1,6 @@
 #Creating a infinite custom iterator
 class Infinite_Iter:
     """Infinite iterator to return all odd numbers"""
-
     #__iter__
     def __iter__(self):
         self.num = 1
