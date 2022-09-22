@@ -17,7 +17,6 @@ class PowTwo:
         else:
             raise StopIteration
 
-
 # create an object of PowTwo class
 numbers = PowTwo(3)
 
