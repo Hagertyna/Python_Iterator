@@ -25,6 +25,7 @@ numbers = PowTwo(3)
 i = iter(numbers)
 
 # Using next to get to the next iterator element
+
 print(next(i))
 print(next(i))
 print(next(i))
